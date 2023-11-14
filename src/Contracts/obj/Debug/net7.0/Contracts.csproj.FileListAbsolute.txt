@@ -1,0 +1,11 @@
+C:\Udemy\Microservices\Carsties\src\Contracts\bin\Debug\net7.0\Contracts.deps.json
+C:\Udemy\Microservices\Carsties\src\Contracts\bin\Debug\net7.0\Contracts.dll
+C:\Udemy\Microservices\Carsties\src\Contracts\bin\Debug\net7.0\Contracts.pdb
+C:\Udemy\Microservices\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Microservices\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+C:\Udemy\Microservices\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+C:\Udemy\Microservices\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Udemy\Microservices\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.dll
+C:\Udemy\Microservices\Carsties\src\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+C:\Udemy\Microservices\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.pdb
+C:\Udemy\Microservices\Carsties\src\Contracts\obj\Debug\net7.0\ref\Contracts.dll
