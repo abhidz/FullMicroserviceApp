@@ -27,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
           "https://artifacts.platform.avalara.io:443/artifactory/api/nuget/avalara-nuget-prerelease": {}
         },
         "frameworks": {
@@ -56,6 +57,10 @@
             "MassTransit.RabbitMQ": {
               "target": "Package",
               "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
@@ -122,6 +127,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
           "https://artifacts.platform.avalara.io:443/artifactory/api/nuget/avalara-nuget-prerelease": {}
         },
         "frameworks": {

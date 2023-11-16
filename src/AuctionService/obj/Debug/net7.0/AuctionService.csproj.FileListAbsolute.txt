@@ -53,3 +53,10 @@ C:\Udemy\Microservices\Carsties\src\AuctionService\obj\Debug\net7.0\refint\Aucti
 C:\Udemy\Microservices\Carsties\src\AuctionService\obj\Debug\net7.0\AuctionService.pdb
 C:\Udemy\Microservices\Carsties\src\AuctionService\obj\Debug\net7.0\AuctionService.genruntimeconfig.cache
 C:\Udemy\Microservices\Carsties\src\AuctionService\obj\Debug\net7.0\ref\AuctionService.dll
+C:\Udemy\Microservices\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Udemy\Microservices\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Udemy\Microservices\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Udemy\Microservices\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Udemy\Microservices\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Udemy\Microservices\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Udemy\Microservices\Carsties\src\AuctionService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
