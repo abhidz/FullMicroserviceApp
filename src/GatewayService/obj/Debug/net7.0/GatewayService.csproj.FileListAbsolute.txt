@@ -34,3 +34,4 @@ C:\Udemy\Microservices\Carsties\src\GatewayService\obj\Debug\net7.0\refint\Gatew
 C:\Udemy\Microservices\Carsties\src\GatewayService\obj\Debug\net7.0\GatewayService.pdb
 C:\Udemy\Microservices\Carsties\src\GatewayService\obj\Debug\net7.0\GatewayService.genruntimeconfig.cache
 C:\Udemy\Microservices\Carsties\src\GatewayService\obj\Debug\net7.0\ref\GatewayService.dll
+C:\Udemy\Microservices\Carsties\src\GatewayService\bin\Debug\net7.0\appsettings.Docker.json
