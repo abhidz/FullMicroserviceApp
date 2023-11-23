@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z+xGkRPOhZKfarEQFvsOVxfdByDZZb8BWhN9GVq+0D/yGbvz+jj+HXQRMRAuT6xyP9rxqBSFDk1yUGLVlIdxeA==",
+  "dgSpecHash": "P4+U5y1/tU4YsntiphAo4TNzXLkhulww2q1+mZZQn0QLmLqj09ZR065D1SqUqOUdrbfnknpnvHIBjLPq2tmD0g==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\Microservices\\Carsties\\src\\IdentityService\\IdentityService.csproj",
   "expectedPackageFiles": [

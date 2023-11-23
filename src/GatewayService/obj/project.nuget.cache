@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h3rFOczkx93um6aD8aSYzIaIJVIUqTPCl1P0ea0CCqw8uMQUW6j5On7t1iRuTKy1mOQShrTius5A73he8IJa+w==",
+  "dgSpecHash": "jzu/HCmzaSOcI1V2XiIOE76072q8omBODVP559FLKKQ6cujYQFlpbp9sS7hPvZjEiT6ulMmkKL//DpGeq8R++A==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\Microservices\\Carsties\\src\\GatewayService\\GatewayService.csproj",
   "expectedPackageFiles": [

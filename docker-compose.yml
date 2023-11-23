@@ -76,6 +76,22 @@ services:
       - ASPNETCORE_URLS=http://+:80
     ports:
       - 6001:80    
+  bidding-svc:
+    image: abhidz/bidding-svc:latest
+    build:
+      context: .
+      dockerfile: src/BiddingService/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80
+      - RabbitMq__Host=rabbitmq
+      - ConnectionStrings__MongoDbConnectionString=mongodb://root:mongopw@mongodb
+      - IdentityServiceUrl=http://identity-svc
+    ports:
+      - 7003:80    
+    depends_on:
+      - mongodb
+      - rabbitmq
 volumes:
   pgdata:
   mongodata:  

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FZf9/mvrL7OVcRltSR7SBEYUqgYxLrhgq6lbDnYvCfac+UTYi3NAUn5j6dFRVcoBgYH/OaL39LzqA82gnvtTAw==",
+  "dgSpecHash": "Ud+PzwvyohlR0wEDiTsquH84cCMmcNTkoV8UniG/cgm8IDNXiH89VShNlSOTynI96YJF0UU5xpYwZeL+o+osQQ==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\Microservices\\Carsties\\src\\AuctionService\\AuctionService.csproj",
   "expectedPackageFiles": [

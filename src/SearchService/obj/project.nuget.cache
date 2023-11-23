@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fGIR41Hgn88UlqE8zE4Jy4btK4dTcDOoPiCBxFf89jRHd0Mc5EXr7YEBN8A29A6QR3nIpYP+Y2YXRJmHuXyn1Q==",
+  "dgSpecHash": "Dc2EGFmBz1eJCOrlwdMyJ/8ZzZ9eaeBoRkroP+zHAlxkurkHnLgOelC1omj0aekx4B85UYJaUuCJaXH5+rZhNA==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\Microservices\\Carsties\\src\\SearchService\\SearchService.csproj",
   "expectedPackageFiles": [
